@@ -1,7 +1,13 @@
+// pages/_app.js
+
+import Layout from '../components/layout'
+import 'antd/dist/antd.css';
 import '../styles/globals.css'
 
-function MyApp({ Component, pageProps }) {
-  return <Component {...pageProps} />
+export default function MyApp({ Component, pageProps }) {
+  return (
+    <Layout>
+      <Component {...pageProps} />
+    </Layout>
+  )
 }
-
-export default MyApp

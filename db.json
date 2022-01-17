@@ -1,0 +1,32 @@
+{
+    "products":[
+        {
+            "id": 367308886,
+            "name": "Фен для волос Rowenta",
+            "img": "https://cdn1.ozone.ru/s3/multimedia-3/wc1200/6139148103.jpg",
+            "price": 2929,
+            "discount": true
+        },
+        {
+            "id": 272350687,
+            "name": "Смартфон Xiaomi Redmi Note",
+            "img": "https://cdn1.ozone.ru/s3/multimedia-s/wc1200/6067361284.jpg",
+            "price": 17980,
+            "discount": true
+        },
+        {
+            "id": 348003256,
+            "name": "Бытовой пылесос Philips XB2123/08",
+            "img":"https://cdn1.ozone.ru/s3/multimedia-a/wc1200/6125707438.jpg",
+            "price": 6790,
+            "discount": true
+        },
+        {
+            "id": 200689781,
+            "name": "Утюг Tefal Turbo",
+            "img":"https://cdn1.ozone.ru/s3/multimedia-m/wc1200/6025120498.jpg",
+            "price": 5990,
+            "discount": true
+        }
+    ]
+}
